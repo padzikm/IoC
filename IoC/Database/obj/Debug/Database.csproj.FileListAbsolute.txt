@@ -1,0 +1,5 @@
+C:\Projects\IoC\IoC\Database\bin\Debug\Database.dll
+C:\Projects\IoC\IoC\Database\bin\Debug\Database.pdb
+C:\Projects\IoC\IoC\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Projects\IoC\IoC\Database\obj\Debug\Database.dll
+C:\Projects\IoC\IoC\Database\obj\Debug\Database.pdb
