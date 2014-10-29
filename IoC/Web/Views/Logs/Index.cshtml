@@ -1,0 +1,13 @@
+﻿@model IEnumerable<string>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista logów</h2>
+
+@foreach (var log in Model)
+{
+    <p>@log</p>
+}
+

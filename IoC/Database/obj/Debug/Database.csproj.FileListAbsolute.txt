@@ -3,3 +3,12 @@ C:\Projects\IoC\IoC\Database\bin\Debug\Database.pdb
 C:\Projects\IoC\IoC\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
 C:\Projects\IoC\IoC\Database\obj\Debug\Database.dll
 C:\Projects\IoC\IoC\Database\obj\Debug\Database.pdb
+C:\Projects\IoC\IoC\Database\bin\Debug\Castle.Core.dll
+C:\Projects\IoC\IoC\Database\bin\Debug\Castle.Windsor.dll
+C:\Projects\IoC\IoC\Database\bin\Debug\Domain.dll
+C:\Projects\IoC\IoC\Database\bin\Debug\StackExchange.Redis.dll
+C:\Projects\IoC\IoC\Database\bin\Debug\Domain.pdb
+C:\Projects\IoC\IoC\Database\bin\Debug\Castle.Core.xml
+C:\Projects\IoC\IoC\Database\bin\Debug\Castle.Windsor.xml
+C:\Projects\IoC\IoC\Database\bin\Debug\StackExchange.Redis.pdb
+C:\Projects\IoC\IoC\Database\bin\Debug\StackExchange.Redis.xml

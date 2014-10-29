@@ -3,3 +3,7 @@ C:\Projects\IoC\IoC\Domain\bin\Debug\Domain.pdb
 C:\Projects\IoC\IoC\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
 C:\Projects\IoC\IoC\Domain\obj\Debug\Domain.dll
 C:\Projects\IoC\IoC\Domain\obj\Debug\Domain.pdb
+C:\Projects\IoC\IoC\Domain\bin\Debug\Castle.Core.dll
+C:\Projects\IoC\IoC\Domain\bin\Debug\Castle.Windsor.dll
+C:\Projects\IoC\IoC\Domain\bin\Debug\Castle.Core.xml
+C:\Projects\IoC\IoC\Domain\bin\Debug\Castle.Windsor.xml

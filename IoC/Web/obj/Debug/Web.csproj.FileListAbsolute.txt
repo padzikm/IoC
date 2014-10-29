@@ -24,3 +24,14 @@ C:\Projects\IoC\IoC\Web\bin\Newtonsoft.Json.xml
 C:\Projects\IoC\IoC\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
 C:\Projects\IoC\IoC\Web\obj\Debug\Web.dll
 C:\Projects\IoC\IoC\Web\obj\Debug\Web.pdb
+C:\Projects\IoC\IoC\Web\bin\Castle.Core.dll
+C:\Projects\IoC\IoC\Web\bin\Castle.Windsor.dll
+C:\Projects\IoC\IoC\Web\bin\Database.dll
+C:\Projects\IoC\IoC\Web\bin\Domain.dll
+C:\Projects\IoC\IoC\Web\bin\Database.pdb
+C:\Projects\IoC\IoC\Web\bin\Domain.pdb
+C:\Projects\IoC\IoC\Web\bin\Castle.Core.xml
+C:\Projects\IoC\IoC\Web\bin\Castle.Windsor.xml
+C:\Projects\IoC\IoC\Web\bin\StackExchange.Redis.dll
+C:\Projects\IoC\IoC\Web\bin\StackExchange.Redis.pdb
+C:\Projects\IoC\IoC\Web\bin\StackExchange.Redis.xml
